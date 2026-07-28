@@ -15,3 +15,6 @@ gcc filename.c -o output
 
 Run:
 ./output
+
+### Hotfix
+Minor documentation update.
